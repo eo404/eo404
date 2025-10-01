@@ -1,13 +1,55 @@
 # 💫 About Me:
-👋 Hi there, I'm Eldho<br><br>🔭 I’m currently working on:<br>- Personal cybersecurity tools and automation scripts  <br>- Practicing CTFs and improving my reverse engineering skills<br><br>👯 I’m looking to collaborate on:<br>- Open-source security projects  <br>- CTF teams and cybersecurity awareness initiatives<br><br>🤝 I’m looking for help with:<br>- Advanced malware analysis  <br>- Real-world exploit development<br><br>🌱 I’m currently learning:<br>- Web application penetration testing (OWASP Top 10)  <br>- Cloud security (AWS & Azure)  <br>- Buffer overflows and binary exploitation<br><br>💬 Ask me about:<br>- Ethical hacking, bug bounty hunting, and how to start in cybersecurity  <br>- Tools like Burp Suite, Wireshark, Nmap, and Metasploit<br><br>⚡ Fun fact:<br>I treat phishing emails like puzzles — and I never lose 😎<br>
+👋 Hi there, I'm Eldho (Eo)<br><br>  
+🐍 Passionate about Python development with a focus on:  
+- Cybersecurity automation & scripting  
+- Web development (Flask & Django basics)  
+- Data analysis and tooling with Python libraries  
 
+👯 I’m looking to collaborate on:  
+- Open-source Python projects  
+- Cybersecurity tools and automation scripts  
+
+🌱 I’m currently learning:  
+- Advanced Python (OOP, multithreading, and async programming)  
+- Flask + SQLAlchemy for web apps  
+- Writing Python tools for security research  
+
+💬 Ask me about:  
+- Python scripting & best practices  
+- Automating tasks with Python  
+- Building small security-focused tools in Python  
+
+⚡ Fun fact:  
+I can turn almost any repetitive task into a Python script 😎  
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eldhoreji/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldhoreji/)  
+
+---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-%23FF9900.svg?style=for-the-badge&logo=python&logoColor=white)  
 
+---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eldhoreji&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=eldhoreji&theme=tokyonight&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eldhoreji&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
+
+# 🐍 Contribution Snake:
+![snake gif](https://github.com/eldhoreji/eldhoreji/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)  
+![snake gif](https://github.com/eldhoreji/eldhoreji/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
