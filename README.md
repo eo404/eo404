@@ -39,17 +39,5 @@ I can turn almost any repetitive task into a Python script 😎
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eldhoreji&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=eldhoreji&theme=tokyonight&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eldhoreji&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-# 🐍 Contribution Snake:
-![snake gif](https://github.com/eldhoreji/eldhoreji/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)  
-![snake gif](https://github.com/eldhoreji/eldhoreji/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
