@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Eldho (Eo)<br><br>  
+👋 Hi there, I'm Eldho <br><br>  
 🐍 Passionate about Python development with a focus on:  
 - Cybersecurity automation & scripting  
 - Web development (Flask & Django basics)  
